@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1pa2tvbXVob25lbiIsImlkIjoiNWRkOTAyMGM0MzA5MTYyMWYwMTU4MWQ1IiwiaWF0IjoxNTc0NTA5ODk5fQ.oGG9ZEBkfpJaVSEr8cr20993Ss8TzhxEvqzaYbYkC2E
+
+{
+    "title": "Kayttajanblogi3",
+    "author": "Kepe K",
+    "url": "http://wwww.uuuuuu.fi",
+    "likes": 10000
+ //   # "userId": "5dd905863ff6d6274857d8ed"
+}
